@@ -14,15 +14,16 @@ This repository is part of the complete STR Robot simulation-to-reality system:
 
 ## Board Preview
 
-![STR PCB 3D View](<img width="669" height="723" alt="image" src="https://github.com/user-attachments/assets/cce10d26-fdb3-48a5-ab46-dab0fc494af5" />
-)
+
+<img width="669" height="723" alt="image" src="https://github.com/user-attachments/assets/ee5d8abd-49ce-4d4a-af29-ec5567cc5124" />
+
 
 ## Schematic Preview
 
 <img width="1265" height="861" alt="image" src="https://github.com/user-attachments/assets/1746ea42-81f0-4d3d-9dd1-b80717482706" />
 
 
-**Schematic PDF:** [Download schematic PDF](docs/f4_v2_schematic.pdf)
+**Schematic PDF:** [schematicf4.pdf](https://github.com/user-attachments/files/26848001/schematicf4.pdf)
 
 ## Repository Contents
 
